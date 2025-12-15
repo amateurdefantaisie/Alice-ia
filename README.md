@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/alice-banner.png" alt="Alice Bot Banner" width="100%" />
+  <img src="assets/alice-banner.jpg" alt="Alice Bot Banner" width="100%" />
 </p>
 
 <h1 align="center">🤖 Alice — Bot WhatsApp Intelligent</h1>
@@ -129,7 +129,7 @@ MODE_PUBLIC="oui"
 ## 🖼️ Identité visuelle
 
 <p align="center">
-  <img src="assets/alice-logo.png" alt="Alice Logo" width="200" />
+  <img src="assets/alice-logo.jpg" alt="Alice Logo" width="200" />
 </p>
 
 > Design : IA humanoïde réaliste • Violet sombre • Noir • Touches violet vif
